@@ -1,4 +1,5 @@
 # First-Repo
-This is my first repositry
+THIS IS MY FIRST REPOSITERY
+
 Author: Master Suhani
 
